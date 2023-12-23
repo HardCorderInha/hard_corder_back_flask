@@ -6,7 +6,7 @@ def get_gpt_result(type, content):
 
     # open ai private key
     client = OpenAI(
-        api_key="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",
+        api_key=
     )
 
     question = ("너는 지금 computer science 분야에 권위있는 교수야 컴퓨터공학과 학생들이 computer science에 관한 질문이 생겨서 질문하려고 해" +
